@@ -13,7 +13,7 @@ This project demonstrates how to design and simulate a **Linear Quadratic Regula
 
 It’s based on the **linear bicycle model**, a simplified representation of a vehicle’s lateral dynamics, and shows how LQR control can minimize lateral and heading errors while keeping steering smooth and stable.
 
-If you’re new to vehicle dynamics or control systems — don’t worry! This project is designed to help you understand **how MATLAB and Simulink work together** to create, tune, and visualize a linear control system.
+If you’re new to vehicle dynamics or control systems, don’t worry! This project is designed to help you understand **how MATLAB and Simulink work together** to create, tune, and visualize a linear control system.
 
 
 ## 🧠 What You’ll Learn
